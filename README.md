@@ -1,2 +1,2 @@
-# Facial-vitality
-BASED on our facial expression it will suggest music to  us.
+# Facial Vitality
+ Based on our facial expression it will suggest us with some music
